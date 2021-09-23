@@ -16,4 +16,4 @@
 
   
 
-<img src="/Users/cocosmacbook/Documents/GitHub/first-repo/柴犬.jpg" alt="柴犬" style="zoom:25%;" />
+<img src="https://github.com/Cocochen1998/first-repo/raw/main/柴犬.jpg" alt="柴犬" style="zoom:15%;" />
